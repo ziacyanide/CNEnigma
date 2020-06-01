@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774283142591",
+    "firebase_url": "https://cnenigma-9e280.firebaseio.com",
+    "project_id": "cnenigma-9e280",
+    "storage_bucket": "cnenigma-9e280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774283142591:android:79058963dead74a3efed0a",
+        "android_client_info": {
+          "package_name": "cyanide.cnenigma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774283142591-pb0k76d4vv4vsimums6sd9v6taiek6dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cyanide.cnenigma",
+            "certificate_hash": "6421d3b015324a3925788b95bb64c32d9a39d3ef"
+          }
+        },
+        {
+          "client_id": "774283142591-sptcak6s8i0dq865fr36tgimo38anank.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMr-DPPIQm30-ImW0NErd7PCg25qQeiII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774283142591-sptcak6s8i0dq865fr36tgimo38anank.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
